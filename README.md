@@ -1,3 +1,9 @@
 # truffle-plugin-kvm
 
-the `node_modules` is commmited to git inorder for this plugin to work
+```bash
+npm i -D truffle-plugin-kvm
+```
+
+## License 
+
+Apache-2.0
