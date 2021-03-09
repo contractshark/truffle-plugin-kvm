@@ -1,6 +1,6 @@
 {
     "name": "truffle-plugin-kvm",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "KVM Plugin for Truffle",
     "main": "kvm.js",
     "scripts": {
