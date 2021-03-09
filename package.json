@@ -1,16 +1,14 @@
 {
-    "name": "truffle-plugin-firefly",
-    "version": "1.0.0",
-    "description": "",
-    "main": "firefly.js",
+    "name": "truffle-plugin-kvm",
+    "version": "1.0.1",
+    "description": "KVM Plugin for Truffle",
+    "main": "kvm.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
        "install": "bash install.sh && bash k.sh"
-   
  },
-    "author": "",
-    "license": "ISC",
+    "author": "SEE CONTRIBUTORS",
+    "license": "Apache-2.0",
     "dependencies": {
-        "nvm": "0.0.4"
     }
 }
